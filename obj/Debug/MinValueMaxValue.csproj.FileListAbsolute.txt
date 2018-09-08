@@ -1,0 +1,6 @@
+F:\ZPractice\MinValueMaxValue\MinValueMaxValue\bin\Debug\MinValueMaxValue.exe.config
+F:\ZPractice\MinValueMaxValue\MinValueMaxValue\bin\Debug\MinValueMaxValue.exe
+F:\ZPractice\MinValueMaxValue\MinValueMaxValue\bin\Debug\MinValueMaxValue.pdb
+F:\ZPractice\MinValueMaxValue\MinValueMaxValue\obj\Debug\MinValueMaxValue.csproj.CoreCompileInputs.cache
+F:\ZPractice\MinValueMaxValue\MinValueMaxValue\obj\Debug\MinValueMaxValue.exe
+F:\ZPractice\MinValueMaxValue\MinValueMaxValue\obj\Debug\MinValueMaxValue.pdb
